@@ -1,0 +1,12 @@
+.app{
+  
+  font-size: 2rem;
+  text-align: center;
+  width: 60%;
+  margin: 50vh;
+  height: auto;
+  justify-self: center;
+}
+body{
+  background-color: whitesmoke;
+}
